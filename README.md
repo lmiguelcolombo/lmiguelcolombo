@@ -5,8 +5,8 @@
 <a href="mailto:lmiguelcolombo@gmail.com"><img src="https://img.shields.io/badge/Gmail-255C99?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
 <h3>Hi, I’m Luis! 👋</h3>
 </div>
-<p>I am a Full Stack (Front-End focused) software engineer living in <a href="https://maps.app.goo.gl/PAibJGS2Eyx6Cj4A6" target="_blank">Brazil</a> with a passion for technologies, and 4 years of professional experience. My expertise lies in finding creative solutions to complex problems with a fun and relaxed approach, truly leading and managing people when working in a team. Currently, I provide top-tier web and software solutions at <a href="https://nexalure.com/"  target="_blank" className="home">Nexalure Technologies</a> within an American-based incredible team of 8.</p>
-<p>When I'm not on my computer, I'm most likely playing an instrument and singing, reading books, training leadership and communication, on the gym, watching speeches/documentaries/keynotes, chilling out, praying, or learning new languages like Golang and Latin. 😁</p>
+<p>👨‍💻 I am a Full Stack (Front-End focused) software engineer living in <a href="https://maps.app.goo.gl/PAibJGS2Eyx6Cj4A6" target="_blank">Brazil</a> with a passion for technologies, and 4 years of professional experience. 🧠 My expertise lies in finding creative solutions to complex problems with a fun and relaxed approach, truly leading and managing people when working in a team. 💻 Currently, I provide top-tier web and software solutions at <a href="https://nexalure.com/"  target="_blank" className="home">Nexalure Technologies</a> within an American-based incredible team of 8.</p>
+<p>🎸 When I'm not on my computer, I'm most likely playing an instrument and singing, reading books, training leadership and communication, on the gym, watching speeches/documentaries/keynotes, chilling out, praying, or learning new languages like Golang and Latin. 😁</p>
 
 ### My Tech Stack:
 <div align="center">
